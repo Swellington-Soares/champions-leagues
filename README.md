@@ -77,10 +77,6 @@ yarn build
 - Busca por ID
 - Tratamento customizado de erros (ex: jogador não encontrado)
 
-## 🧪 Testes
-
-*(Se aplicável, incluir seção sobre testes futuramente)*
-
 ## 📄 Licença
 
 Este projeto está sob a licença MIT.
